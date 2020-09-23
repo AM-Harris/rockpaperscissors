@@ -6,7 +6,6 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 ## Day 1
 
 #### Planning
-<<<<<<< HEAD
 - [x] Copy the [project planning document](https://docs.google.com/document/d/1CCzFGH6Z4AtpWrDuB6KQK73N5-8ywGv0KhO10i3hZPk/edit#) and link a completed version in your ReadMe.
 - [x] https://docs.google.com/document/d/1Ga9MTIi_N0_-_gYt8R4NFkZyE_FCyyW_K2KIIkMEtgI/edit
 #### Set-Up
@@ -14,31 +13,23 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 - [x] Fork this repository to your Github account and pull it down to Glitch
 - [ ] Add, commit, and push your changes
 - [ ] Make your site live on gh-pages
-=======
 - [ ] Copy the [project planning document](https://docs.google.com/document/d/1CCzFGH6Z4AtpWrDuB6KQK73N5-8ywGv0KhO10i3hZPk/edit#) and link a completed version in your ReadMe.
 
 #### Set-Up
 - [x] Go to the repository at https://github.com/itscodenation/rockpaperscissors
 - [ ] Fork this repository to your Github account and pull it down to Glitch
 - [ ] Look through all the Starter Code
->>>>>>> de03f54e2fd667d77268436af1b3330628caf475
 
 ### JavaScript
 - [ ] Use JavaScript to display the value of the input on the page
 
-<<<<<<< HEAD
-
-=======
->>>>>>> de03f54e2fd667d77268436af1b3330628caf475
 ### HTML and CSS
 - [ ] Add any more HTML elements you will need to the page
 - [ ] Customize your HTML with CSS
 
 #### Wrap
-<<<<<<< HEAD
+
 - [ ] Push your changes!
-=======
->>>>>>> de03f54e2fd667d77268436af1b3330628caf475
 - [ ] Save and submit your website using the link on the session agenda.
 
 ## Day 2
@@ -48,35 +39,28 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 - [ ] Outside of your click handler, declare the variables you'll need to track the user choice, computer choice and winner and assign them values of empty strings.
 - [ ] Outside of your click handler, declare a randomNumber variable and set it equal to 0
 - [ ] When the user initiates the game, generate a random number and assign it to the randomNumber variable.
-<<<<<<< HEAD
 - [ ] When the user initiates the game, store the user choice..	
 - [ ] When the user initiates the game, display user choice to the screen
 #### Wrap
 - [ ] Push your changes!
-=======
 - [ ] When the user initiates the game, store the user choice.
 - [ ] When the user initiates the game, display user choice to the screen.
 
 #### Wrap
 - [ ] Save and submit your website using the link on the session agenda.
->>>>>>> de03f54e2fd667d77268436af1b3330628caf475
 
 ## Day 3
 
 ## JavaScript
 - [ ] Write a conditional statement which, given the number range of randomNumber, assigns ‘rock’, ‘paper’ or ‘scissors’ to the variable that holds the computer choice. 
-<<<<<<< HEAD
 - [ ] Display the computer choice to the screen
 - [ ] Write a  statement that compares the user choice to the computer choice to determine the winner of the game
-=======
 - [ ] Display the computer choice to the screen.
 - [ ] Write conditional statements that compare the user choice to the computer choice to determine the winner of the game.
->>>>>>> de03f54e2fd667d77268436af1b3330628caf475
 - [ ] Display the winner to the screen.
 - [ ] Clear the input value once a result is displayed.
 
 #### Wrap
-<<<<<<< HEAD
 - [ ] Push your changes!
 
 ## Projects Extensions:
@@ -89,7 +73,6 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 ## References/Tools
 * [Fellowship Reference Table]()
 * [Script Tag](http://javascript.crockford.com/script.html)
-=======
 - [ ] Save and submit your website using the link on the session agenda.
 
 
@@ -102,7 +85,6 @@ In this unit, coders will create a Rock, Paper, Scissors game. To create this pr
 
 ## References/Tools
 * [Fellowship Reference Table](https://docs.google.com/document/d/1qrY2OC-6S04oOXZlYmXja7lmKBmdApR-HXJkhfd67e8/)
->>>>>>> de03f54e2fd667d77268436af1b3330628caf475
 * [How Jquery Works](http://learn.jquery.com/about-jquery/how-jquery-works/)
 * [JQuery Events](http://api.jquery.com/category/events/)
 * [Math.random](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/random)
